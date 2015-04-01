@@ -1,0 +1,48 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android" >
+
+    <item
+        android:id="@+id/action_refresh"
+        android:orderInCategory="100"
+        android:showAsAction="always"
+        android:title="A+" />
+    <item
+        android:id="@+id/action_settings"
+        android:orderInCategory="100"
+        android:showAsAction="always"
+        android:title="A-"/>
+
+    <item
+        android:id="@+id/buttonShareTextUrl"
+        android:orderInCategory="100"
+        android:showAsAction="always"
+        android:icon="@drawable/share_icon"
+        android:title="Share" />
+
+    <item
+        android:id="@+id/btn_star"
+        android:orderInCategory="100"
+        android:showAsAction="always"
+        android:icon="@drawable/btn_star"
+
+        android:title="" />
+
+    <item
+        android:id="@+id/btn_star_on"
+        android:orderInCategory="100"
+        android:showAsAction="always"
+        android:icon="@drawable/btn_star_on"
+        android:title="" />
+
+    <item
+        android:id="@+id/feed_back"
+        android:orderInCategory="100"
+        android:showAsAction="never"
+        android:title="Feedback"/>
+
+    <item
+        android:id="@+id/rateApp"
+        android:orderInCategory="100"
+        android:showAsAction="never"
+        android:title="Rate App"/>
+
+</menu>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- From: file:/D:/AndroidEra/AndroidStudioStore/ViewPagerTutorial/app/src/main/res/values/dimens.xml -->
+    <eat-comment/>
+    <dimen name="ball_radius">30dp</dimen>
+    <dimen name="font_size">20sp</dimen>
+    <dimen name="textview_height">25dp</dimen>
+    <dimen name="textview_width">150dp</dimen>
+    <!-- From: file:/D:/AndroidEra/AndroidStudioStore/ViewPagerTutorial/app/src/main/res/values/strings.xml -->
+    <eat-comment/>
+    <string name="app_name">ViewPager Tutorial</string>
+    <string name="countrylabel">"Country : "</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="menu_settings">Settings</string>
+    <string name="populationlabel">"Population : "</string>
+    <string name="ranklabel">"Rank : "</string>
+    <!-- From: file:/D:/AndroidEra/AndroidStudioStore/ViewPagerTutorial/app/src/main/res/values/styles.xml -->
+    <eat-comment/>
+    <style name="AppTheme" parent="android:Theme.Light"/>
+</resources>

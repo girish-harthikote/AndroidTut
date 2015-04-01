@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="D:\AndroidEra\AndroidStudioStore\ViewPagerTutorial\app\libs\FlurryAnalytics-5.3.0.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="1dcb2e42a9fa1c35e7a18762bf53815919ce2dca">
+        <dex dex="D:\AndroidEra\AndroidStudioStore\ViewPagerTutorial\app\build\intermediates\pre-dexed\debug\FlurryAnalytics-5.3.0-52754d9e5c262bb0902990f1db43d86ed69df5af.jar" />
+    </item>
+    <item
+        jar="D:\AndroidEra\AndroidStudioStore\ViewPagerTutorial\app\build\intermediates\exploded-aar\com.crashlytics.sdk.android\beta\1.1.1\classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="13fcdacaecfcce00c7dd129264d70da2ff195563">
+        <dex dex="D:\AndroidEra\AndroidStudioStore\ViewPagerTutorial\app\build\intermediates\pre-dexed\debug\classes-2cbcdb0dc984b6e044cb3526d990ab86923fda37.jar" />
+    </item>
+    <item
+        jar="D:\AndroidEra\AndroidStudioStore\ViewPagerTutorial\app\build\intermediates\exploded-aar\com.crashlytics.sdk.android\answers\1.1.1\classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="12a82f51a488d577e124fd6038ff3b533311d4b9">
+        <dex dex="D:\AndroidEra\AndroidStudioStore\ViewPagerTutorial\app\build\intermediates\pre-dexed\debug\classes-d4c98e1a47c606a0c2aa1590cb1daa9a2d81fcc6.jar" />
+    </item>
+    <item
+        jar="C:\Users\girish.harthikote\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-v4\19.1.0\support-v4-19.1.0.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="85f201b380937e61a9dce6ca90ccf6872abbfb67">
+        <dex dex="D:\AndroidEra\AndroidStudioStore\ViewPagerTutorial\app\build\intermediates\pre-dexed\debug\support-v4-19.1.0-73ea3a48a558c0803f019027baa665bcd8abc5a9.jar" />
+    </item>
+    <item
+        jar="D:\AndroidEra\AndroidStudioStore\ViewPagerTutorial\app\build\intermediates\exploded-aar\io.fabric.sdk.android\fabric\1.1.1\classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="bb47ba58ffd67d44cd9e5cc6761cac747b4a6acf">
+        <dex dex="D:\AndroidEra\AndroidStudioStore\ViewPagerTutorial\app\build\intermediates\pre-dexed\debug\classes-c626217f83e55939d75cbca5c33cc671740c3b70.jar" />
+    </item>
+    <item
+        jar="D:\AndroidEra\AndroidStudioStore\ViewPagerTutorial\app\build\intermediates\exploded-aar\com.crashlytics.sdk.android\crashlytics\2.2.1\classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="7c9c3b5f5f093c43123e905d97d6a06373393afa">
+        <dex dex="D:\AndroidEra\AndroidStudioStore\ViewPagerTutorial\app\build\intermediates\pre-dexed\debug\classes-4680b2aa3f0bce392205778fff78f2cc0cc05929.jar" />
+    </item>
+
+</items>

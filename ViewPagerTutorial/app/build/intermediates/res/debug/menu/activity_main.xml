@@ -1,0 +1,15 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+   
+     <item
+        android:id="@+id/action_refresh"
+        android:orderInCategory="25"
+        android:showAsAction="always"
+        android:icon="@drawable/india"
+        android:title="Refresh" />
+    
+    <item android:id="@+id/menu_settings"
+        android:title="@string/menu_settings"
+        android:orderInCategory="25"
+        android:showAsAction="always" />
+</menu>
+<!-- From: file:/D:/AndroidEra/AndroidStudioStore/ViewPagerTutorial/app/src/main/res/menu/activity_main.xml -->
